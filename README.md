@@ -17,8 +17,7 @@
 **[Contact]**
 + https://github.com/Juxstin/
 
-+ https://discord.gg/pmc5QZb (Offical Snaptools server)
-+ https://discord.gg/GRtUJKj (Offical JSnap server)
++ https://discord.gg/TDqWmEa (Offical JSnap server)
 
 **[Donate]**
 + https://shoppy.gg/product/4v33JGL
