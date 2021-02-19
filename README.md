@@ -6,7 +6,6 @@
 + Data saving (For celluar / wifi)
 + **[NEW]** Blocking Location
 + **[NEW]** Blocking Weather
-+ **[NEW]** Blocking Payments that Snapchat may force
 
 **[Credits]**
 + Justin
