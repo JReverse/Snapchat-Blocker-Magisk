@@ -15,4 +15,3 @@
 + https://github.com/JReverse/
 
 **[Known Issues]**
-+ 10.55 & Higher may show (some) ads as they redirected to app.snapchat.com/rpc/ads (Blocking this would require hooks)
