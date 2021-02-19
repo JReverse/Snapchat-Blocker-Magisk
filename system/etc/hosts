@@ -1,30 +1,21 @@
-# Logged and created by juxstin #
+# Logged and created by JReverse #
 
 127.0.0.1 localhost
 
 ::1 localhost #[IPv6]
 
-0.0.0.0 snapads.com
-0.0.0.0 crashlytics.com
-0.0.0.0 e.crashlytics.com
-0.0.0.0 reports.crashlytics.com
+0.0.0.0 adserver.snapads.com 
 0.0.0.0 usc.adserver.snapads.com
-0.0.0.0 adserver.snapads.com
 0.0.0.0 use.adserver.snapads.com
 0.0.0.0 euw.adserver.snapads.com
 0.0.0.0 ase.adserver.snapads.com
 0.0.0.0 adserver.shadow.snapads.com
-0.0.0.0 app-analytics.snapchat.com
-0.0.0.0 sc-analytics.appspot.com
-0.0.0.0 staging2-dot-sc-analytics.appspot.com
-0.0.0.0 staging.app-analytics.snapchat.com
-0.0.0.0 ad-center.snapchat.com
 0.0.0.0 adserver.staging.snapads.com
-0.0.0.0 snapchat-snapads-portal.appspot.com
+0.0.0.0 gtq.sct.sc-prod.net
+0.0.0.0 app-analytics.snapchat.com
+0.0.0.0 app-analytics-v2.snapchat.com
+0.0.0.0 app-analytics-dev.snapchat.com
 0.0.0.0 weather.sc-jpl.com
-0.0.0.0 loc.sc-jpl.com
 0.0.0.0 loc-staging.sc-jpl.com
 0.0.0.0 loca-staging.sc-jpl.com
 0.0.0.0 loca.sc-jpl.com
-0.0.0.0 snapchat-payments-gateway.snapchat.com
-0.0.0.0 snapchat.tf

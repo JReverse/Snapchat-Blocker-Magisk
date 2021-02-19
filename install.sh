@@ -124,7 +124,7 @@ REPLACE="
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "  Snap Blocker V2.2 By Justin  "
+  ui_print "  Snap Blocker V2.3 By Justin  "
   ui_print "*******************************"
 }
 

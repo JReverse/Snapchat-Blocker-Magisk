@@ -1,8 +1,6 @@
 id=snaphostblocker
 name=Snap Host Blocker
-version=v2.2
-versionCode=3
-author=juxstin
+version=v2.3
+versionCode=4
+author=JReverse
 description=Blocks ADS and Analytics
-support=https://discord.gg/pmc5QZb
-donate=https://shoppy.gg/product/4v33JGL
